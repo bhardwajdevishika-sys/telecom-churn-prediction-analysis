@@ -1,5 +1,14 @@
 # Telecom Customer Churn Prediction & Analysis
 
+## Demo
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+![Model Comparison](screenshots/model-comparison.png)
+
+The output is a self-contained interactive dashboard (`churn_dashboard.html`) 
+showing EDA insights and model evaluation results, built with Plotly.
+
 A machine learning project that predicts whether a telecom customer is likely to 
 churn, based on their account details and service usage. The project also 
 generates an interactive dashboard summarizing the analysis and model results.
