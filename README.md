@@ -114,6 +114,8 @@ While working on this project, I:
   churn drivers
 
 ---
+## Tech Stack
+- Python, Pandas, Scikit-Learn, XGBoost
 
 ## Acknowledgment
 
